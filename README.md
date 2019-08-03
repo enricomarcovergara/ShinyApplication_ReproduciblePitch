@@ -2,7 +2,6 @@ Developing Data Products
 Course Project: Shiny Application and Reproducible Pitch
 ==============================
 
-## Introduction
 This repository is intended for the final course project of the 'Developing Data Products' in Coursera by John Hopkins University.  The repository consists the four final project submission files:
 - ui.R
 - server.R
