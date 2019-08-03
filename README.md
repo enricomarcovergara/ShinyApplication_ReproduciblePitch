@@ -9,7 +9,7 @@ This repository is intended for the final course project of the 'Developing Data
 - UserGuide.html
 - README.md 
 
-The ui.R and server.R are the code which contains the final project shiny application named **XXXX**. On the other hand, ShinyApplication_ReproduciblePitch.Rpres is the supporting documentation with UserGuide.html as the embedded documentation in the shiny app to help users.  
+The ui.R and server.R are the code which contains the final project shiny application named **Breast Cancer Tumor Prediction**. On the other hand, ShinyApplication_ReproduciblePitch.Rpres is the supporting documentation with UserGuide.html as the embedded documentation in the shiny app to help users.  
 
 Listed below are the final project submission links for the shiny application and RStudio presentation slides:
 
